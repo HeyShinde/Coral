@@ -8,7 +8,6 @@ Coral Detection: Utilizing YOLOv8 and YOLOv9 models for precise detection of cor
 Coral Segmentation: Employing U-Net architecture to segment coral regions from the background, providing finer granularity.
 Coral Tracking: Tracking coral reefs across frames using the object detection model.
 Area Quantification: Calculating the area covered by coral reefs in both the original image and the segmented mask image, aiding in quantitative analysis.
-Installation
 
 </br>
 
