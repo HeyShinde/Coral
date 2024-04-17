@@ -20,9 +20,9 @@ Installation
 
 ## <div align="center">References</div>
 
-- YOLOv8: [Documentation](https://github.com/ultralytics/ultralytics)
-- YOLOv9: [Paper](https://arxiv.org/abs/2402.13616)
-- U-Net: [Paper](https://arxiv.org/abs/1505.04597)
+- YOLOv8: [Documentation](https://github.com/ultralytics/ultralytics) {:target="_blank" rel="noopener"}
+- YOLOv9: [Paper](https://arxiv.org/abs/2402.13616) {:target="_blank" rel="noopener"}
+- U-Net: [Paper](https://arxiv.org/abs/1505.04597) {:target="_blank" rel="noopener"}
 
 </br>
 
@@ -33,21 +33,21 @@ Installation
 <tr align="center">
     <td align="center">
         <a href="https://github.com/HeyShinde">
-            <img src="https://avatars.githubusercontent.com/u/91674742?v=4" width="100;" alt="HeyShinde"/>
+            <img src="https://avatars.githubusercontent.com/u/91674742?v=4" width="100;" alt="HeyShinde" target="_blank"/>
             <br />
             <sub><b>Shinde Aditya</b></sub>
         </a>
     </td>
   <td align="center">
         <a href="https://github.com/HeyShinde">
-            <img src="https://avatars.githubusercontent.com/u/91674742?v=4" width="100;" alt="HeyShinde"/>
+            <img src="https://avatars.githubusercontent.com/u/91674742?v=4" width="100;" alt="HeyShinde" target="_blank"/>
             <br />
             <sub><b>Nuthan Varma</b></sub>
         </a>
     </td>
   <td align="center">
         <a href="https://github.com/sujithkumar2003">
-            <img src="https://avatars.githubusercontent.com/u/100142128?v=4" width="100;" alt="Sujith Kumar"/>
+            <img src="https://avatars.githubusercontent.com/u/100142128?v=4" width="100;" alt="Sujith Kumar" target="_blank"/>
             <br />
             <sub><b>Sujith Kumar</b></sub>
         </a>
