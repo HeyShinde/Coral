@@ -38,7 +38,7 @@ Area Quantification: Calculating the area covered by coral reefs in both the ori
         </a>
     </td>
   <td align="center">
-        <a href="https://github.com/HeyShinde">
+        <a href="https://github.com/nuthannn">
             <img src="https://avatars.githubusercontent.com/u/120624221?v=4" width="100;" alt="Nuthan Varma"/>
             <br />
             <sub><b>Nuthan Varma</b></sub>
